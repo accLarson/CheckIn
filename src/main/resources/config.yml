@@ -1,0 +1,9 @@
+messages:
+  error-no-permission: "<#db8d8c>Error <#c47372>- You do not have permission to run this command."
+  error-not-player: "<#db8d8c>Error <#c47372>- You must run this command as a player."
+  error-no-checkin: "<#db8d8c>Error <#c47372>- You don't have an active check-in."
+  error-invalid-command: "<#db8d8c>Error <#c47372>- Invalid command usage. Use /checkin, /checkin cancel, or /checkin next"
+  next-player: "<#656b96>Next player: <#949bd1><player>"
+  no-more-players: "<#656b96>No more players to check."
+  checkin-cancelled: "<#656b96>Your active check-in has been cancelled."
+  new-checkin: "<#656b96>New check-in started. Use <#949bd1>/checkin next <#656b96>to TP."

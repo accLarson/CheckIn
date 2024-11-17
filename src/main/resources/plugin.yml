@@ -1,0 +1,7 @@
+name: CheckIn
+version: '1.0.0'
+main: dev.zerek.checkIn.CheckIn
+api-version: '1.21'
+commands:
+  checkin:
+    description: Cycle through online players teleporting to them.
